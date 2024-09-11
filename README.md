@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-Rezaei&layout=compact&theme=algolia&langs_count=8"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Negar-721&layout=compact&theme=algolia&langs_count=8"/>
         </td>
     </tr>
 </table>
