@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏫 I'm a B.Sc. Computer Engineering student at Amirkabir University of Technology.
+- 🏫 I'm a B.Sc. Computer Engineering Student at Amirkabir University of Technology.
 
 ## Programming Languages, Technologies & Tools
 <div>
