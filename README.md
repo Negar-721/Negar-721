@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Negar 👋
 
 <!--
 **Negar-Yadegari/Negar-Yadegari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-- 📫 You Can Mail Me Here [email](mailto:negar121004@gmail.com) =) ## Hi there 👋
+- 📫 You Can Mail Me Here [email](mailto:negar121004@gmail.com) =)👋
 
 <!--
 **Negar-721/Negar-721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
