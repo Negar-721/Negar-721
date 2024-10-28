@@ -28,6 +28,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="40"/>&nbsp;
+  <img src="https://www.pygame.org/ftp/pygame2_logo.png" title="Pygame" alt="Pygame" width="50" height="40"/>&nbsp;
+  <img src="https://kivy.org/logos/kivy-logo-black-64.png" title="Kivy" alt="Kivy" width="50" height="40"/>&nbsp;<img src="https://kivy.org/logos/kivy-logo-black-64.png" title="Kivy" alt="Kivy" width="50"       
+  height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" title="Scikit-learn" alt="Scikit-learn" width="50" height="40"/>&nbsp;
 </div>
 
 ## GitHub Stats:
